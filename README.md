@@ -1,0 +1,1 @@
+To load a nib view in another nib or storyboard you must set nib files `File's Owner` property to the custom class name. And custom class should override `prepareForInterfaceBuilder` method.
