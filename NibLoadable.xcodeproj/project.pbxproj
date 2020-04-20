@@ -8,25 +8,25 @@
 
 /* Begin PBXBuildFile section */
 		7C0802A0244D65D8007A8620 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C080295244D65D8007A8620 /* ViewController.swift */; };
-		7C0802A1244D65D8007A8620 /* STSingleLineTextInputView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C080296244D65D8007A8620 /* STSingleLineTextInputView.xib */; };
+		7C0802A1244D65D8007A8620 /* SingleLineTextInputView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C080296244D65D8007A8620 /* SingleLineTextInputView.xib */; };
 		7C0802A2244D65D8007A8620 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C080297244D65D8007A8620 /* Assets.xcassets */; };
 		7C0802A3244D65D8007A8620 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C080298244D65D8007A8620 /* LaunchScreen.storyboard */; };
 		7C0802A4244D65D8007A8620 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C08029A244D65D8007A8620 /* Main.storyboard */; };
 		7C0802A5244D65D8007A8620 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C08029C244D65D8007A8620 /* AppDelegate.swift */; };
 		7C0802A7244D65D8007A8620 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C08029E244D65D8007A8620 /* SceneDelegate.swift */; };
-		7C0802A8244D65D8007A8620 /* STSingleLineTextInputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C08029F244D65D8007A8620 /* STSingleLineTextInputView.swift */; };
+		7C0802A8244D65D8007A8620 /* SingleLineTextInputView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C08029F244D65D8007A8620 /* SingleLineTextInputView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		7C080295244D65D8007A8620 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		7C080296244D65D8007A8620 /* STSingleLineTextInputView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = STSingleLineTextInputView.xib; sourceTree = "<group>"; };
+		7C080296244D65D8007A8620 /* SingleLineTextInputView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SingleLineTextInputView.xib; sourceTree = "<group>"; };
 		7C080297244D65D8007A8620 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C080299244D65D8007A8620 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C08029B244D65D8007A8620 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		7C08029C244D65D8007A8620 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7C08029D244D65D8007A8620 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C08029E244D65D8007A8620 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		7C08029F244D65D8007A8620 /* STSingleLineTextInputView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STSingleLineTextInputView.swift; sourceTree = "<group>"; };
+		7C08029F244D65D8007A8620 /* SingleLineTextInputView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingleLineTextInputView.swift; sourceTree = "<group>"; };
 		7C8ADFBD23B12267008CC5E5 /* NibLoadable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NibLoadable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -50,8 +50,8 @@
 				7C080298244D65D8007A8620 /* LaunchScreen.storyboard */,
 				7C08029A244D65D8007A8620 /* Main.storyboard */,
 				7C08029E244D65D8007A8620 /* SceneDelegate.swift */,
-				7C08029F244D65D8007A8620 /* STSingleLineTextInputView.swift */,
-				7C080296244D65D8007A8620 /* STSingleLineTextInputView.xib */,
+				7C08029F244D65D8007A8620 /* SingleLineTextInputView.swift */,
+				7C080296244D65D8007A8620 /* SingleLineTextInputView.xib */,
 				7C080295244D65D8007A8620 /* ViewController.swift */,
 			);
 			path = NibLoadable;
@@ -133,7 +133,7 @@
 			files = (
 				7C0802A3244D65D8007A8620 /* LaunchScreen.storyboard in Resources */,
 				7C0802A2244D65D8007A8620 /* Assets.xcassets in Resources */,
-				7C0802A1244D65D8007A8620 /* STSingleLineTextInputView.xib in Resources */,
+				7C0802A1244D65D8007A8620 /* SingleLineTextInputView.xib in Resources */,
 				7C0802A4244D65D8007A8620 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -148,7 +148,7 @@
 				7C0802A5244D65D8007A8620 /* AppDelegate.swift in Sources */,
 				7C0802A0244D65D8007A8620 /* ViewController.swift in Sources */,
 				7C0802A7244D65D8007A8620 /* SceneDelegate.swift in Sources */,
-				7C0802A8244D65D8007A8620 /* STSingleLineTextInputView.swift in Sources */,
+				7C0802A8244D65D8007A8620 /* SingleLineTextInputView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

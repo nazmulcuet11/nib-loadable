@@ -22,7 +22,7 @@ extension NibLoadableView {
 }
 
 @IBDesignable
-class STSingleLineTextInputView: UIView, NibLoadableView {
+class SingleLineTextInputView: UIView, NibLoadableView {
     private(set) var contentView: UIView?
 //    private let nibName = "STSingleLineTextInputView"
 
